@@ -1,0 +1,14 @@
+argparse==1.2.1
+docx2txt==0.6
+et-xmlfile==1.0.1
+jdcal==1.2
+numpy==1.11.1
+openpyxl==2.3.5
+pandas==0.18.1
+pyexcel==0.2.4
+pyexcel-io==0.2.1
+python-dateutil==2.5.3
+pytz==2016.6.1
+six==1.10.0
+texttable==0.8.4
+wsgiref==0.1.2
